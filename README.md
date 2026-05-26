@@ -1,1 +1,3 @@
-É um quiz voltado ao mundo do anime naruto
+# Quiz Mania
+
+É um quiz voltado ao universo do anime Naruto
